@@ -1,0 +1,20 @@
+{
+  "name": "backend-learning",
+  "version": "1.0.0",
+  "description": "Daily backend progress using Node.js, Express, and MongoDB. Learning in public. // github contribution check",
+  "homepage": "https://github.com/tanmayyyyayyy/backend-learning#readme",
+  "bugs": {
+    "url": "https://github.com/tanmayyyyayyy/backend-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayyyyayyy/backend-learning.git"
+  },
+  "license": "ISC",
+  "author": "tanmay jain",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
